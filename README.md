@@ -11,3 +11,15 @@ What you see here is my **achievement board**, still in progress though...
 - **Passion**: Thrilled with ML opportunities 🤖  
 
 Currently, I'm on the **Foundational Track** of [MIT Emerging Talent](https://emergingtalent.mit.edu/). 
+
+
+## Projects
+### KORT
+The aim of the project is to solve the problems with the operation of public transport in big cities. 🏙️🚍  
+
+The solution to this problem is to implement different fields of knowledge, such as **machine learning** and **computer vision**. 🧠👀  
+
+---
+
+## Contact
+Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/deni-g-071790212/).  
