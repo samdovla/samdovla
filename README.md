@@ -15,7 +15,7 @@ Currently, I'm on the **Foundational Track** of [MIT Emerging Talent](https://em
 
 ## Projects
 ### KORT
-The aim of the project is to solve the problems with the operation of public transport in big cities. 🏙️🚍  
+Aiming to solve the problems with the public transport in big cities. 🏙️🚍  
 
 The solution to this problem is to implement different fields of knowledge, such as **machine learning** and **computer vision**. 🧠👀  
 
