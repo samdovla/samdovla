@@ -6,8 +6,8 @@ Welcome to my GitHub profile! Over here, it's all about my journey into the Data
 What you see here is my **achievement board**, still in progress though...  
 
 ## About Me
-- **Background**: Social Studies 📚  
-- **Skills**: Good with Math ➕➗  
+- **Background**: Social Studies, Linguistics and Logistics 📚✈️  
+- **Skills**: Good with Math, Soccer and Dr. Pepper   
 - **Passion**: Thrilled with ML opportunities 🤖  
 
-Currently, I'm on the **Foundational Track** of [MIT Emerging Talent](https://emergingtalent.mit.edu/).
+Currently, I'm on the **Foundational Track** of [MIT Emerging Talent](https://emergingtalent.mit.edu/). 
