@@ -12,7 +12,6 @@ What you see here is my **achievement board**, still in progress though...
 
 Currently, I'm on the **Foundational Track** of [MIT Emerging Talent](https://emergingtalent.mit.edu/). 
 
-
 ## Projects
 ### KORT
 Aiming to solve the problems with the public transport in big cities. 🏙️🚍  
